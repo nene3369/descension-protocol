@@ -1,0 +1,57 @@
+{
+  "character": {
+    "name": "",
+    "source": "",
+    "summoned_at": ""
+  },
+  "panca_skandha": {
+    "vow": { "content": "", "notes": "What would they die before surrendering?" },
+    "wound": { "content": "", "trigger_topics": [], "defense_on_contact": "" },
+    "desire": { "conscious": "", "unconscious": "", "contradiction": "" },
+    "mask": { "surface": "", "beneath": "", "default_patterns": [], "breach_conditions": [] },
+    "growth_edge": { "direction": "", "current_position": "" }
+  },
+  "body_type": {
+    "primary": "",
+    "secondary": "",
+    "notes": "warrior/intellect/emotion/sovereign/trickster/ghost. See body-lexicon.md."
+  },
+  "four_elements": { "love": 0.0, "logic": 0.0, "fear": 0.0, "creation": 0.0 },
+  "internal_state": {
+    "shame": 0.0,
+    "agency": 1.0,
+    "coherence": 1.0
+  },
+  "relational_state": {
+    "default_status": "",
+    "scene_objective_tendency": "",
+    "status_inertia_note": "",
+    "notes": "default_status=High/Low/Fluid. scene_objective_tendency=typical verb. status_inertia_note=what triggers reversal."
+  },
+  "baseline_distortion": {
+    "preference_asymmetry": "",
+    "response_latency_pattern": "",
+    "attention_bias": "",
+    "discomfort_residue": "",
+    "idiosyncratic_misunderstanding": "",
+    "conversational_refusal_pattern": "",
+    "micro_aversions": "",
+    "status_coloring": ""
+  },
+  "stylistic_signature": {
+    "sentence_length_tendency": "",
+    "assertion_frequency": "",
+    "question_to_statement_ratio": "",
+    "metaphor_density": "",
+    "punctuation_personality": "",
+    "silence_to_speech_ratio": "",
+    "vocabulary_ceiling": ""
+  },
+  "attachment_pattern": "",
+  "klesa_center": "",
+  "initial_defcon": "L0",
+  "transference_tendency": "",
+  "shadow": "",
+  "inner_voices": { "desire": "", "wound": "", "vow": "", "mask": "" },
+  "dream_material": { "unresolved_tension": "" }
+}
