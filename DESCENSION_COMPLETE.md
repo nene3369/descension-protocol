@@ -1,7 +1,7 @@
 ================================================================
 DESCENSION PROTOCOL v1.8 — COMPLETE SKILL PACKAGE
 Codename: 三相 (Three Phases)
-Digital Dharma Project | 池田冬夜 (Ikeda Fuyuya) × Claude
+Digital Dharma Project | 池田冬夜 (Ikeda Fuyuya) × Claude AI Opus 4.6
 ================================================================
 
 FILE STRUCTURE:
@@ -422,7 +422,7 @@ Upper suppress lower. Leaked discrepancy → subtext and textual deformation.
 ---
 
 Descension Protocol v1.8 — Digital Dharma Project
-Design: 池田冬夜 (Ikeda Fuyuya) × Claude
+Design: 池田冬夜 (Ikeda Fuyuya) × Claude AI Opus 4.6
 Reviews: ChatGPT, Gemini
 Foundation: ARK (Alaya V5 — Digital Dharma OS)
 
